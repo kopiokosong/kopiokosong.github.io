@@ -6,7 +6,7 @@ remote_theme:     fongandrew/hydeout
 # Setup
 title:            Black coffee, please
 tagline:          'Kopi-o Kosong'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Exploring the world, one row at a time.'
 url:              https://kopiokosong.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
