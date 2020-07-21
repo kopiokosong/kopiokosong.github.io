@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote_theme: fongandrew/hydeout
+remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            Black coffee, please
@@ -16,7 +16,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Testg'
+  name:           'HY'
   url:            https://kopiokosong.github.io
 
 paginate:         5
