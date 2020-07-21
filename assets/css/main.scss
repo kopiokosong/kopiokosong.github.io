@@ -4,6 +4,20 @@
 ---
 
 @import "hydeout";
-body {
-    font-size: 0.5rem;
- }
+
+#Changing fonts
+html {
+  font-size: 12px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 18px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 20px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 22px; // change to whatever
+  }
+}
