@@ -10,11 +10,11 @@ tags:
 ---
 ![Image of Coffee](/images/flemming-fuchs-4NlXcLHv1ng-unsplash.jpg)
 
-I would not call myself a coffee connoisseur. While I would not spend money on over-priced drinks, I drink it frequently enough that my coffee order quite fairly well defines me. 
+I do not call myself a coffee connoisseur. While I would not spend money on over-priced drinks, I drink it frequently enough that my coffee order quite fairly well defines me. 
 
-My favorite kind of coffee is actually what they call a kopi-o kosong **dit lou**.
+My standard order is a kopi-o kosong **dit lou**.
 
 <!--more-->
 
-### PLEASE DO NOT ASK ME ABOUT WHAT KIND OF BEANS I USE
-Honestly, I do not know. 
+### Please do not ask me what kind of beans I use
+
