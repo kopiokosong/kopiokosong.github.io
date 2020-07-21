@@ -8,6 +8,7 @@ tags:
   - Visualization
 
 ---
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 I would not call myself a coffee connoisseur, I just drink coffee a lot. 
 My favorite kind of coffee is actually what they call a kopi-o kosong **dit lou**.
