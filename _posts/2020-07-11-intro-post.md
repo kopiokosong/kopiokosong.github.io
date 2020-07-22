@@ -2,10 +2,8 @@
 layout: post
 title: "Straight In"
 excerpt_separator: "<!--more-->"
-categories:
-  - Start
 tags:
-  - Visualization
+  - Introduction
 
 ---
 ![Image of Coffee](/images/flemming-fuchs-4NlXcLHv1ng-unsplash.jpg)
