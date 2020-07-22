@@ -6,7 +6,7 @@ remote_theme:     fongandrew/hydeout
 # Setup
 title:            Black coffee, please
 tagline:          'Kopi-o Kosong'
-description:      'One sip at a time'
+description:      ''
 url:              https://kopiokosong.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
